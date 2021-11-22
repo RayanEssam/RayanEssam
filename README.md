@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RayanEssam
+- 👋 Hi, I’m @RayanEssam , this account is linked with tuwaiq academy 
 - 👀 I’m interested web & app development
 - 🌱 I’m currently learning swift for ios apps developing
 - 💞️ I’m looking to collaborate on anything!
